@@ -1,0 +1,40 @@
+*{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 29px;
+    text-align: justify;
+    background-color: rgb(228, 217, 219);
+}
+.container{
+    margin-right: 90px;
+    margin-left: 90px;
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+    text-decoration: underline dotted rgb(165, 118, 31);
+}
+h2{
+    font-size: 40px;
+}
+img{
+    height: auto;
+    width: 400px;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 35px;
+    text-indent: 50px;
+    color: rgb(46, 93, 38);
+    font-weight: 600;
+    font-style: italic;
+}
+ol{
+    list-style-position : inside;
+}
+ol li{
+    margin-bottom: 20px;
+}
